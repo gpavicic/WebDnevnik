@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2017, 12:19:58 AM
+    Author     : Stenci
+*/
+body, html {
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    background-color: lightgray ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#content {
+    background-color: whitesmoke;
+    width: 900px;
+    padding: 50px;
+    margin: 0px auto;
+    min-height: 100%;
+    overflow:auto;
+    box-shadow: 0 0 10px black; 
+}
+
+td {
+    padding: 2px 10px;
+}
+
+h1 {
+    color: black;
+    margin: 50px auto;
+    font-family: Candara;
+}
+
+h3 {
+    color: black;
+    margin: 50px auto;
+    font-family: Candara;
+}
